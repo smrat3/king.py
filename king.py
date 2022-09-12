@@ -1,4 +1,4 @@
-print ("\037[91m")
+print ("\037[93m")
 import sys
 import os
 import time
